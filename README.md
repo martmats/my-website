@@ -1,2 +1,2 @@
-# my-website
-All the apps I build in my Python learning process
+# My Website
+A website showcasing my Python apps
